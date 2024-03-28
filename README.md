@@ -14,7 +14,10 @@ That's all and nice to meet you.
 
 📫 email: `2908400267@qq.com`
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+VIC+WA+NT+Beginner&size=28&width=600&lines=To+see+the+world+as+it+is+and+to+love+it.)](https://git.io/typing-svg)
+![Stats](https://github-readme-stats.vercel.app/api?username=gypgyptestmore&show_icons=true&theme=radical)
+![streak](http://github-readme-streak-stats.herokuapp.com/?user=gypgyptestmore&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=gypgyptestmore&theme=radical)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gypgyptestmore&show_icons=true&theme=transparent" /> 
@@ -36,5 +39,6 @@ That's all and nice to meet you.
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=gypgyptestmore&layout=compact&show_icons=true&theme=radical)
 ![trophy](https://github-profile-trophy.vercel.app/?username=gypgyptestmore&theme=radical)
 ![streak](http://github-readme-streak-stats.herokuapp.com/?user=gypgyptestmore&theme=radical)
+
 ![snake](./assets/github-contribution-grid-snake.svg)
 ![github-active](./profile-3d-contrib/profile-night-rainbow.svg)
