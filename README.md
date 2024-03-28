@@ -12,6 +12,9 @@ I wish you enjoy your codes and fuck your bugs.
 
 That's all and nice to meet you.
 
+📫 email: `2908400267@qq.com`
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+VIC+WA+NT+Beginner&size=28&width=600&lines=To+see+the+world+as+it+is+and+to+love+it.)](https://git.io/typing-svg)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gypgyptestmore&show_icons=true&theme=transparent" /> 
 </div>
