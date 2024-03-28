@@ -13,11 +13,15 @@ I wish you enjoy your codes and fuck your bugs.
 That's all and nice to meet you.
 
 📫 email: `2908400267@qq.com`
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+VIC+WA+NT+Beginner&size=28&width=600&lines=To+see+the+world+as+it+is+and+to+love+it.)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gypgyptestmore&show_icons=true&theme=transparent" /> 
 </div>
+![streak](http://github-readme-streak-stats.herokuapp.com/?user=kangyana&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=kangyana&theme=radical)
+
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%230072b3?style=flat-square&logo=TypeScript&logoColor=%23fff"> 
@@ -30,3 +34,4 @@ That's all and nice to meet you.
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
 </span>
+
