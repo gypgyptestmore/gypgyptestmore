@@ -8,8 +8,6 @@ I'm focusing on web technology.
 
 After work, I'm also interested in reading, shopping, exploring food stores, DIY handicrafts.
 
-You can get more information from  [Email](2908400267@qq.com)  to contact me.
-
 I wish you enjoy your codes and fuck your bugs.
 
 That's all and nice to meet you.
