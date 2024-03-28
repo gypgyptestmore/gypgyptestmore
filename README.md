@@ -18,10 +18,6 @@ That's all and nice to meet you.
 ![streak](http://github-readme-streak-stats.herokuapp.com/?user=gypgyptestmore&theme=radical)
 ![trophy](https://github-profile-trophy.vercel.app/?username=gypgyptestmore&theme=radical)
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gypgyptestmore&show_icons=true&theme=transparent" /> 
-</div>
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%230072b3?style=flat-square&logo=TypeScript&logoColor=%23fff"> 
