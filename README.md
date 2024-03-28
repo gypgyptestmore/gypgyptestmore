@@ -1,19 +1,19 @@
-### Hi  👋
+# 👋 Hi bro
 
-<!--
-**gypgyptestmore/gypgyptestmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Gyp, it's my shit-code-repository here.**
 
-Here are some ideas to get you started:
+I am a developer from ```China```. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm focusing on web technology.
+
+After work, I'm also interested in reading, shopping, exploring food stores, DIY handicrafts.
+
+You can get more information from  [Email](2908400267@qq.com)  to contact me.
+
+I wish you enjoy your codes and fuck your bugs.
+
+That's all and nice to meet you.
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gypgyptestmore&show_icons=true&theme=transparent" /> 
 </div>
