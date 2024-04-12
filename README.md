@@ -6,9 +6,9 @@ I am a developer from ```China```.
 
 I'm focusing on web technology.
 
-After work, I'm also interested in reading, shopping, exploring food stores, DIY handicrafts.
+After work, I'm also interested in reading, visiting classic attractions with good friends, taking beautiful photos, shopping, exploring food stores, DIY handicrafts.
 
-I wish you enjoy your codes and fuck your bugs.
+I wish you enjoy my codes and fuck your bugs.
 
 That's all and nice to meet you.
 
