@@ -10,9 +10,13 @@ After work, I'm also interested in reading, visiting classic attractions with go
 
 I wish you enjoy my codes and fuck your bugs.
 
+Let's make progress together.
+
 That's all and nice to meet you.
-2024.1-2024.4  美团前端实习
-2024.7-2024.9  阿里巴巴大文娱前端实习
+
+2024.1-2024.4  美团前端实习.
+
+2024.7-2024.9  阿里巴巴大文娱前端实习.
 
 📫 email: `2908400267@qq.com`
 
